@@ -1,2 +1,3 @@
 hallo, dit is mijn eerste regel!
 Dit is een wijziging op github!
+Hallo, dit is een lokale wijziging.
